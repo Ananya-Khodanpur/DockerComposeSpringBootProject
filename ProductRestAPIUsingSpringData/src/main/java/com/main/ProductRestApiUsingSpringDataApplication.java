@@ -13,6 +13,7 @@ public class ProductRestApiUsingSpringDataApplication {
 	public static void main(String[] args) {
 
         SpringApplication.run(ProductRestApiUsingSpringDataApplication.class, args);
+        System.out.println("My Application has been started");
 	}
 
 }
